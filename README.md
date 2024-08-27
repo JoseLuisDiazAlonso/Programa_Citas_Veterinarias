@@ -2,6 +2,7 @@
 # Gestor de Citas Veterinarias
 
 ![Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 ## 🐾 Descripción
 
@@ -62,6 +63,6 @@ Las contribuciones son bienvenidas. Por favor, sigue las siguientes pautas para 
 
 4. **Haz Push a la rama**:
 
-git push origin feature/nueva-caracteristica
+   git push origin feature/nueva-caracteristica
 
 
