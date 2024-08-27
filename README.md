@@ -19,4 +19,4 @@ Sigue estos pasos para clonar e instalar la aplicación en tu máquina local:
 1. **Clona el repositorio**:
 
    ```bash
-git@github.com:JoseLuisDiazAlonso/Programa_Citas_Veterinarias.git
+git clone git@github.com:JoseLuisDiazAlonso/Programa_Citas_Veterinarias.git
