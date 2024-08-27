@@ -1,0 +1,101 @@
+/*Damos formato al contenedor entero*/
+
+.container2, .container3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 200px;
+    margin-left: 140px;
+
+}
+
+.container2 h2 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.container2 span {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+/*Damos formato al formulario*/
+
+.formulario input {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.formulario textarea {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.formulario button {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+
+.datos-paciente button {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.añadir {
+    height: 20px;
+    background-color: blue;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.añadir:hover {
+    width: 120px;
+    background-color: red;
+}
+
+.eliminar {
+    height: 20px;
+    background-color: blue;
+    color: white;
+    transition: all 0.3s ease;
+    border-radius: 10px;
+}
+
+.eliminar:hover {
+    width: 120px;
+    background-color: red;
+
+}
+
+p {
+    text-align: center;
+    justify-content: center;
+}
