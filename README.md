@@ -8,6 +8,8 @@
 
 **Gestor de Citas Veterinarias** es una aplicación web desarrollada en **React** (elaborado como ejemplo práctico) el cual permitiría a una clínica veterinaria gestionar de manera eficaz la distribución de las citas.
 
+**Todo el código lo podrás encontrar en la rama master**
+
 ## 🛠 Tecnologías y Herramientas
 
 - **React**: Biblioteca para construir interfaces de usuario.
